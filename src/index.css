@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&family=Sono:wght@200;300;400;500;600;700;800&display=swap");
+
+:root {
+  --font-family: "Sono", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #adc178 1.84%, #a98467 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #adc178 -13.86%, #a98467 99.55%);
+
+  --color-bg: #d4a373;
+  --color-footer: #faedcd;
+  --color-blog: #fefae0;
+  --color-text: #e9edc9;
+  --color-subtext: #ccd5ae;
+}

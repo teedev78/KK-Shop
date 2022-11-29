@@ -1,0 +1,22 @@
+.kk__categories {
+    border: 1px solid rgb(58, 114, 22);
+    width: 960px;
+    margin: auto;
+}
+
+.kk__categories h1 {
+    margin: 10px;
+    color: #fff;
+}
+
+.kk__categories-lists ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+
+.kk__categories-list {
+    text-align: center;
+}
+

@@ -1,0 +1,35 @@
+.kk__footer {
+  margin-top: 10px;
+  border-top: 2px solid rgb(116, 116, 116);
+  background: #6f4e37;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.kk__footer_container {
+  width: 960px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kk__footer_logo {
+  margin-left: 20px;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.kk__footer_social-lists {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.kk__footer_social-icon {
+  margin-right: 10px;
+}
+
+.kk__footer_social-lists:last-child {
+  margin-right: 20px;
+}
